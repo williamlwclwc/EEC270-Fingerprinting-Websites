@@ -1,0 +1,23 @@
+# started on Sun Feb 27 03:28:44 2022
+
+#           time             counts unit events
+     1.000542912           35884444      cache-misses:u                                              
+     1.000542912            2513696      node-loads:u                                                
+     1.000542912           30895195      branch-misses:u                                             
+     1.000542912           30896099      branch-load-misses:u                                        
+     2.001820935           78723406      cache-misses:u                                              
+     2.001820935            6123334      node-loads:u                                                
+     2.001820935           52225147      branch-misses:u                                             
+     2.001820935           52226031      branch-load-misses:u                                        
+     3.003097696           74009527      cache-misses:u                                              
+     3.003097696            5596683      node-loads:u                                                
+     3.003097696           40780367      branch-misses:u                                             
+     3.003097696           40779098      branch-load-misses:u                                        
+     4.004453926           66353018      cache-misses:u                                              
+     4.004453926            4769421      node-loads:u                                                
+     4.004453926           36415015      branch-misses:u                                             
+     4.004453926           36414898      branch-load-misses:u                                        
+     5.005741077           51354091      cache-misses:u                                              
+     5.005741077            3644404      node-loads:u                                                
+     5.005741077           19280970      branch-misses:u                                             
+     5.005741077           19280679      branch-load-misses:u                                        
